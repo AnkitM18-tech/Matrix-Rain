@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: boredr-box;
+}
+
+body {
+    overflow: hidden;
+    background: #000;
+}
+
+canvas {
+    /* background: #00F; */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
